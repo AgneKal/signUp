@@ -2,7 +2,6 @@
     width: 80%;
     max-width: 1280px;
     min-width: 800px;
-    height: fit-content;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -16,7 +15,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     width: 40%;
-    height: calc(height);
+    height: 90%;
     color: white;
     display: flex;
     flex-direction: column;
