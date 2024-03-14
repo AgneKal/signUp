@@ -4,6 +4,7 @@
     min-width: 800px;
     display: flex;
     position: relative;
+    /* align-items: center; */
 }
 
 .left-side {
